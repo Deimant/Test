@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Clock dimmens
+    <dimen name="background">100dp</dimen>
+    <dimen name="text_size">48dp</dimen>
+    <dimen name="text_size_small">16dp</dimen>
+
+</resources>
